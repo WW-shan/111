@@ -1,0 +1,3 @@
+107.148.88.141 fakelocation.api.lerist.cc
+107.148.88.141 notice.api.lerist.cc
+107.148.88.141 ads.api.lerist.cc
